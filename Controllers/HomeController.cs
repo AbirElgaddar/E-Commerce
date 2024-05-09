@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.Controllers
 {
-    //hello this is my mod
+    //hello this is my moD
 
     public class HomeController : Controller
     {
